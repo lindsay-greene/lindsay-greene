@@ -1,5 +1,5 @@
 👋 Hi, I’m @lindsay-greene
-- 🌱 I’m interested in the intersection of computer science with linguistics and speech pathology
+- 🌱 I’m interested in the intersection of computer science, linguistics, and speech pathology
 - 📫 You can reach me via [email](iamlindsaygreene@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lindsay-greene/)
 
 Here are some of my favorite projects I've worked on so far: 
