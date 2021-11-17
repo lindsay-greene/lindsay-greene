@@ -1,7 +1,7 @@
 👋 Hi, I’m @lindsay-greene
-🌱 I’m interested in 
-📫 graylin@live.unc.edu
+- 🌱 I’m interested in the intersection of computer science with linguistics and speech pathology
+- 📫 You can reach me via [email](iamlindsaygreene@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lindsay-greene/)
 
 Here are some of my favorite projects I've worked on so far: 
-[Word Complexity Measure](https://github.com/unccard/shiny-woRdcomplex-2.1) R shiny app 
-[Animated Speech Articulator](https://fizzstudio.github.io/speech-articulator/speech-articulator-therapy.svg) JavaScript interface 
+- [Word Complexity Measure](https://github.com/unccard/shiny-woRdcomplex-2.1) R shiny app 
+- [Animated Speech Articulator](https://fizzstudio.github.io/speech-articulator/speech-articulator-therapy.svg) JavaScript interface 
