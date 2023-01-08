@@ -1,5 +1,5 @@
 👋 Hi, I’m @lindsay-greene
-- I'm an incoming PM intern at Microsoft 
+- I'm an incoming PM at Microsoft 
 - I’m interested in the intersection of computer science, linguistics, and speech pathology
 - 📫 You can reach me via [email](iamlindsaygreene@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lindsay-greene/)
 - See my writing on [Medium](https://medium.com/@ggreenelindsay)
